@@ -39,7 +39,7 @@ body{
 .about-qr-code h2{
     font-size: 22px;
     font-weight: 700;
-    line-height: 120%;
+    line-height: 1.2;
     margin-bottom: 16px;
     color: #1F314F;
 }
@@ -48,5 +48,11 @@ body{
     color: #68778D;
     font-size: 15px;
     letter-spacing: 0.2px;
-    line-height: 140%;
+    line-height: 1.4;
 }
+
+@media (max-width: 640px){
+    .qr-code-section{
+        margin: 0 20px;
+    }
+} 
