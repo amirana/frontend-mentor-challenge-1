@@ -1,12 +1,13 @@
 # Frontend Mentor Challenges - QR code component (HTML & CSS)
+<p>This is a solution to the Frontend Mentor - QR Code Component challenge. The goal was to build a simple and clean QR code card component that matches the provided design as closely as possible.</p>
 
 <ul>
  <li><a href="https://frontend-mentor-challenge-1-bay.vercel.app/" target="_blank">Live Demo</a></li>
 </ul>
 
-<h2>Overview</h2>
-<p>This is a solution to the Frontend Mentor - QR Code Component challenge. The goal was to build a simple and clean QR code card component that matches the provided design as closely as possible.</p>
- 
+<h2>Screenshot</h2>
+<img src="./assets/imgs/qr-code.png"/>
+
 <h2>Built With</h2>
 <ul>
   <li>HTML5 (Semantic)</li>
