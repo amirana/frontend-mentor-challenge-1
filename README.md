@@ -5,9 +5,6 @@
  <li><a href="https://frontend-mentor-challenge-1-bay.vercel.app/" target="_blank">Live Demo</a></li>
 </ul>
 
-<h2>Screenshot</h2>
-<img src="./assets/imgs/qr-code.png"/>
-
 <h2>Built With</h2>
 <ul>
   <li>HTML5 (Semantic)</li>
