@@ -1,4 +1,4 @@
-# Frontend Mentor Challenges - QR code component (HTML & CSS)
+# Frontend Mentor Challenge - QR code component (HTML & CSS)
 <p>This is a solution to the Frontend Mentor - QR Code Component challenge. The goal was to build a simple and clean QR code card component that matches the provided design as closely as possible.</p>
 
 <ul>
