@@ -15,7 +15,7 @@
 <h2>Credits</h2>
 <ul>
   <li>Design provided by <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a></li>
-  <li>Fonts: Outfit via Google Fonts</li>
+  <li>Font: Outfit via Google Fonts</li>
  <li>Vercel for deployment</li>
 </ul>
 
